@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rubygems'
+#gem 'rubygems'
+#gem 'open-uri'
 gem 'nokogiri'
-gem 'open-uri'
+gem "logger", "~> 1.2.8"
+
